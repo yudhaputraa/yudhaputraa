@@ -1,4 +1,4 @@
-![MasterHead](https://64.media.tumblr.com/139f00453586590f26058c170e13362d/cddeab4f24d91959-3c/s1280x1920/6eba0ca5b34e73013113d3905da706d1a05e5c3d.gif)
+![MasterHead](https://www.bbva.ch/wp-content/uploads/2022/09/Biometria-Blog-1300x400-1.gif)
 <h1 align="center">Hi 👋, I'm Yudha Putra</h1>
 <h3 align="center">Currently, I am a student who is interested in the field of artificial intelligence and is deepening my understanding of philosophy</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
