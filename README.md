@@ -1,7 +1,7 @@
 ![MasterHead](https://www.bbva.ch/wp-content/uploads/2022/09/Biometria-Blog-1300x400-1.gif)
 <h1 align="center">Hi 👋, I'm Yudha Putra</h1>
 <h3 align="center">Currently, I am a student who is interested in the field of artificial intelligence and is deepening my understanding of philosophy</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/52/5c/b1/525cb1d3a0767ace2db82800f7765667.gif">
+<img align="right" alt="Coding" width="400" src="https://artsformysake.files.wordpress.com/2020/08/face-id-glitch.gif?w=800">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yudhaputraa&label=Profile%20views&color=0e75b6&style=flat" alt="yudhaputraa" /> </p>
 
