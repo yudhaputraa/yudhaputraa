@@ -2,7 +2,6 @@
 <h3 align="center">Currently, I am a student who is interested in the field of artificial intelligence and is deepening my understanding of philosophy</h3>
 <img align="right" alt="Coding" width="400" src="https://artsformysake.files.wordpress.com/2020/08/face-id-glitch.gif?w=800">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yudhaputraa&label=Profile%20views&color=0e75b6&style=flat" alt="yudhaputraa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yudha_tesseract" target="blank"><img src="https://img.shields.io/twitter/follow/yudha_tesseract?logo=twitter&style=for-the-badge" alt="yudha_tesseract" /></a> </p>
 
