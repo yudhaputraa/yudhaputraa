@@ -44,5 +44,5 @@
 ---
 
 <p align="center">
-  [cite_start]<i>"Combining technical excellence with real-world impact through Artificial Intelligence."</i> [cite: 6]
+  <i>"Combining technical excellence with real-world impact through Artificial Intelligence."</i>
 </p>
