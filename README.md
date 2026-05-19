@@ -43,11 +43,6 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
 </p>
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yudhaputraa&show_icons=true&theme=radical&hide_border=true" width="48%" alt="Yudha's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudhaputraa&layout=compact&theme=radical&hide_border=true" width="48%" alt="Yudha's Top Languages" />
-</div>
 
 ---
 
